@@ -2,6 +2,16 @@
 Luxyh - Jornada em Ciência de Dados
 Bem-vindo ao repositório do GitHub do Luxyh!
 
+<div>
+[![Luxyh GitHub stats](https://github-readme-stats.vercel.app/api?username=Luxyh)](https://github.com/Luxyh/github-readme-stats)
+
+
+https://github.com/Luxyh/readme-stats
+
+  
+</div>
+
+
 - Sobre Mim
 👋Olá! Eu sou o Luxyh, um entusiasta de 20 anos atualmente cursando Engenharia Mecânica. Estou me aventurando no  mundo da Ciência de Dados e Python, explorarando suas possibilidades ilimitadas.
 
