@@ -27,7 +27,7 @@
 ##
 
 - Sobre Mim
-👋Olá! Eu sou o Luxyh, um entusiasta de 20 anos atualmente cursando Engenharia Mecânica. Estou me aventurando no  mundo da Ciência de Dados e Python, explorarando suas possibilidades ilimitadas.
+👋Olá! Eu sou o Luxyh, um entusiasta de 21 anos atualmente cursando Engenharia Mecânica. Estou me aventurando no  mundo da Ciência e Análise de Dados e Python, explorarando suas possibilidades ilimitadas.
 
 - Objetivos
 Neste repositório, pretendo documentar minha jornada, compartilhar projetos e colaborar com pessoas que compartilham o mesmo interesse na área de Ciência de Dados e Python. Através de experimentação e aprendizado, espero contribuir de forma significativa para a comunidade.
