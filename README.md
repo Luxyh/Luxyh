@@ -9,7 +9,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luxyh-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-   <img align="center" alt="Luxyh-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+   <img align="center" alt="Luxyh-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+      <img align="center" alt="Luxyh-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" />
 
 </div>
  
